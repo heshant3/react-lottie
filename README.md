@@ -1,2 +1,2 @@
-# react-lottie..
+# How to import lottie animation to react..
 react-lottie...
