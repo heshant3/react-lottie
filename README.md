@@ -1,2 +1,2 @@
-# react-lottie.
+# react-lottie..
 react-lottie...
